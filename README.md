@@ -126,22 +126,35 @@ class PraveenRavva:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="100%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Praveenravva61)
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenravva61&theme=algolia&hide_border=true&background=00000000" alt="GitHub Streak" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Praveenravva61&theme=radical&hide_border=true)](https://github.com/Praveenravva61)
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="50%"/>
+<table>
+<tr>
+<td width="50%">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Praveenravva61)
+
+</td>
+<td width="50%">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveenravva61&theme=redical&hide_border=true&area=true)](https://github.com/Praveenravva61)
+
+</td>
+</tr>
+</table>
 
 ### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/Praveenravva61)
 
 </div>
 
