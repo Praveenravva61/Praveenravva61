@@ -118,25 +118,6 @@ class PraveenRavva:
 
 ---
 
-## 📊 GitHub Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenravva61&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 ### 📈 Contribution Activity
 
