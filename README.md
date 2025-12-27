@@ -122,39 +122,19 @@ class PraveenRavva:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Praveenravva61)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveenravva61&theme=tokyonight&hide_border=false)
 
-</td>
-<td width="50%">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Praveenravva61&theme=radical&hide_border=true)](https://github.com/Praveenravva61)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Praveenravva61)
-
-</td>
-<td width="50%">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveenravva61&theme=redical&hide_border=true&area=true)](https://github.com/Praveenravva61)
-
-</td>
-</tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ### 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/Praveenravva61)
+![trophy](https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
+
+### 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveenravva61&custom_title=Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=false)
 
 </div>
 
