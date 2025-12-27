@@ -120,23 +120,29 @@ class PraveenRavva:
 
 ## 📊 GitHub Performance Metrics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenravva61&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenravva61&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praveenravva61&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenravva61&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
 
 ### 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenravva61&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
 
 ### 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveenravva61&custom_title=Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=false)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenravva61&custom_title=Contribution%20Activity&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
+</p>
 
 ---
 
